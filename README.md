@@ -103,10 +103,3 @@ Este manual tem como objetivo orientar o usuário sobre como utilizar o projeto 
 - Novas análises e visualizações podem ser adicionadas conforme a necessidade.
 - O projeto pode ser integrado a dashboards ou sistemas de BI para uso corporativo.
 
-## Suporte e Dúvidas
-
-Para dúvidas ou suporte, entre em contato com o responsável pelo projeto ou consulte a documentação das bibliotecas utilizadas.
-
----
-
-Este manual visa garantir que o usuário possa utilizar o projeto de forma eficiente e aproveitar ao máximo as análises OLAP implementadas.
